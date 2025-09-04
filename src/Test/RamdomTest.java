@@ -39,5 +39,7 @@ public class RamdomTest {
             System.out.println();
         }
 
+
+        System.out.println("多加的一行看见了吗");
     }
 }
