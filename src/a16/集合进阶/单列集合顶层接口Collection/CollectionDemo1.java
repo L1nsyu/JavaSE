@@ -16,7 +16,7 @@ public class CollectionDemo1 {
         //注意点:
         //Collection是一个接口,我们不能直接创建他的对象。
         // 所以，现在我们学习他的方法时，只能创建他实现类的对象。
-        // 实现类:ArrayList
+        // 实现类:Array`1`1List
 
         //目的:为了学习Collection接口里面的方法
         //自己在做一些练习的时候，还是按照之前的方式去创建对象。
