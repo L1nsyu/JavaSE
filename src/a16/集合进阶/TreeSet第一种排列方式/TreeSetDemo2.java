@@ -22,7 +22,7 @@ public class TreeSetDemo2 {
         //1.创建三个学生对象
         Student s1 = new Student(23, "zhangsan");
         Student s2 = new Student(24, "lisi");
-        Student s3 = new Student(23, "wangwu");
+        Student s3 = new Student(25, "wangwu");
 
         //2.创建集合对象
         TreeSet<Student> ts = new TreeSet<>();
