@@ -16,7 +16,7 @@ public class CollectionDemo1 {
         //注意点:
         //Collection是一个接口,我们不能直接创建他的对象。
         // 所以，现在我们学习他的方法时，只能创建他实现类的对象。
-        // 实现类:Array`1`1List
+        // 实现类:ArrayList
 
         //目的:为了学习Collection接口里面的方法
         //自己在做一些练习的时候，还是按照之前的方式去创建对象。
@@ -38,7 +38,7 @@ public class CollectionDemo1 {
 //        System.out.println(coll);//[]
 
         //3.删除
-        //细节1:因为Collection里面定义的是共性的方法,所以此时不能通过所以进行删除,只能通过元素的对象进行删除
+        //细节1:因为Collection里面定义的是共性的方法,所以此时不能通过索引进行删除,只能通过元素的对象进行删除
         //细节2:方法会有一个布尔类型的返回值,删除成功返回true,删除失败返回false
         //如果要删除的元素不存在,就会删除失败
         System.out.println(coll.remove("aaa"));//true
