@@ -5,6 +5,11 @@ import java.util.TreeMap;
 
 public class TreeMapDemo2 {
     public static void main(String[] args) {
+        //代码书写两种排序规则:
+        //实现Comparable接口,指定比较规则
+        //创建集合时传递Comparator比较器对象,指定比较规则
+
+
         //要求2:按照id的降序排列
 
         //因为默认排序已经满足不了需求了,所以需要 创建集合时传递Comparator比较器对象,指定比较规则。
