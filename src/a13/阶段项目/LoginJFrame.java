@@ -1,4 +1,4 @@
-package a13.阶段项目.ui;
+package a13.阶段项目;
 
 import javax.swing.*;
 

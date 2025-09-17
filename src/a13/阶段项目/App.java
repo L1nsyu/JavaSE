@@ -1,4 +1,4 @@
-package a13.阶段项目.ui;
+package a13.阶段项目;
 
 public class App {
     public static void main(String[] args) {
