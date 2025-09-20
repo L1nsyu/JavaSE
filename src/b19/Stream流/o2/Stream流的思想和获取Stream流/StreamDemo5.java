@@ -7,6 +7,7 @@ public class StreamDemo5 {
         //一堆零散数据      public static<T> Stream<T> of(T... values)            Stream接口中的静态方法
 
 
+        //⭐⭐
         Stream.of("a", "b", "c", "d", "e", "f").forEach(name -> System.out.println(name));
 
         System.out.println("-------------------------------");
