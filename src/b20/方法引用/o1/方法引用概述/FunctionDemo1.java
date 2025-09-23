@@ -1,4 +1,4 @@
-package b20.方法引用.方法引用概述;
+package b20.方法引用.o1.方法引用概述;
 
 import java.util.Arrays;
 import java.util.Comparator;
