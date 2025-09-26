@@ -2,7 +2,7 @@ package b21.异常.o3.try_catch捕获异常;
 
 public class ExceptionDemo3 {
     public static void main(String[] args) {
-        //格式:
+        //格式:⭐⭐
 /*      try{
             可能出现异常的代码;
         }catch (异常类名 变量名){
