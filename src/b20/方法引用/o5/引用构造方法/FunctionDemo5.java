@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 
 public class FunctionDemo5 {
     public static void main(String[] args) {
-        //方法引用(引用构造方法)
+        //方法引用(引用构造方法)  ⭐⭐
         // 格式:
         //      类名::new
 

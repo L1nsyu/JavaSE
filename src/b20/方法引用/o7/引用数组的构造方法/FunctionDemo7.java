@@ -7,7 +7,7 @@ import java.util.function.IntFunction;
 
 public class FunctionDemo7 {
     public static void main(String[] args) {
-/*        方法引用(数组的构造方法)
+/*        方法引用(数组的构造方法) ⭐⭐
         格式
             数据类型[]::new
         目的:
