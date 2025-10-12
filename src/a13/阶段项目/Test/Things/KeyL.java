@@ -1,11 +1,8 @@
-package Test.Things;
+package a13.阶段项目.Test.Things;
 
 import javax.swing.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
-import java.util.Random;
 
 public class KeyL extends JFrame implements KeyListener {
 
