@@ -7,7 +7,7 @@ import java.io.IOException;
 public class ByteStreamDemo8 {
     public static void main(String[] args) throws IOException {
 /*      练习:
-            文件拷贝
+            文件拷贝⭐⭐
 
         注意:
             选择一个比较小的文件,不要太大.大文件拷贝我们下一个视频会说.

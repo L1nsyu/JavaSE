@@ -5,7 +5,8 @@ import java.io.IOException;
 
 public class ByteStreamDemo7 {
     public static void main(String[] args) throws IOException {
-        //字节输入流循环读取
+        //字节输入流循环读取⭐⭐
+
 
         //1.创建对象
         FileInputStream fis = new FileInputStream("C:\\Users\\lsy\\Desktop\\FileTest\\b.txt");
