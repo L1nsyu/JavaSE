@@ -5,7 +5,7 @@ import java.io.IOException;
 
 public class ByteStreamDemo3 {
     public static void main(String[] args) throws IOException {
-/*
+/*      ⭐⭐
         void write(int b)           一次写一个字节数据
         void write(byte[] b)        一次写一个字节数组数据
         void write(byte[] b,int off,int len)    一次写一个字节数组的部分数据
