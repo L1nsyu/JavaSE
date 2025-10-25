@@ -4,7 +4,7 @@ import java.io.*;
 
 public class BufferedStreamDemo1 {
     public static void main(String[] args) throws IOException {
-        /*
+        /*⭐
          * 需求:
          *       利用字节缓冲流拷贝文件
          *
