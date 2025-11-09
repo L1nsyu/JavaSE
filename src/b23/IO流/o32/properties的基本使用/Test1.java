@@ -6,7 +6,7 @@ import java.util.Set;
 
 public class Test1 {
     public static void main(String[] args) {
-        //properties 作为 Map 集合的操作
+        //properties 作为 Map 集合的操作 ⭐⭐
 
 
         //1.创建集合的对象

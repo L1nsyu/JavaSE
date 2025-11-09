@@ -7,6 +7,7 @@ import java.util.Properties;
 
 public class Test3 {
     public static void main(String[] args) throws IOException {
+        //⭐⭐
         //1.创建集合
         Properties prop = new Properties();
 

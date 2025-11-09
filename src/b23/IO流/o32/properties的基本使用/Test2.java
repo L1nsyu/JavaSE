@@ -10,7 +10,7 @@ import java.util.Set;
 
 public class Test2 {
     public static void main(String[] args) throws IOException {
-        //Properties 跟IO流结合的操作
+        //Properties 跟IO流结合的操作 ⭐⭐
 
         //1.创建集合
         Properties prop = new Properties();
