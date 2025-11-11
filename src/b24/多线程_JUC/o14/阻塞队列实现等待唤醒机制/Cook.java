@@ -1,0 +1,25 @@
+package b24.多线程_JUC.o14.阻塞队列实现等待唤醒机制;
+
+import java.util.concurrent.ArrayBlockingQueue;
+
+public class Cook extends  Thread {
+
+    ArrayBlockingQueue<String> queue;
+
+    public Cook(ArrayBlockingQueue<String> queue) {
+        this.queue = queue;
+    }
+
+    @Override
+    public void run() {
+        while (true) {
+            //不断的把面条放到阻塞队列中
+            try {
+                queue.put("面条");
+                System.out.println("厨师放了一碗面条");
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e);
+            }
+        }
+    }
+}
