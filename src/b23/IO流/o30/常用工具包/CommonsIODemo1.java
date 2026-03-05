@@ -1,3 +1,4 @@
+/*
 package b23.IO流.o30.常用工具包;
 
 import org.apache.commons.io.FileUtils;
@@ -7,7 +8,8 @@ import java.io.IOException;
 
 public class CommonsIODemo1 {
     public static void main(String[] args) throws IOException {
-        /*⭐⭐⭐
+        */
+/*⭐⭐⭐
         *FileUtils类
             static void copyFile(File srcFile, File destFile)                   复制文件
             static void copyDirectory(File srcDir, File destDir)                复制文件夹
@@ -23,7 +25,8 @@ public class CommonsIODemo1 {
             public static int copyLarge(Reader input, Writer output)            复制大文件
             public static String readLines(Reader input)                        读取数据
             public static void write(String data, 0utputStream output)          写出数据
-        * */
+        * *//*
+
 
         File src = new File("C:\\Users\\lsy\\Desktop\\NewFileTest\\aa.txt");
         File dest = new File("C:\\Users\\lsy\\Desktop\\NewFileTest\\aaCopy.txt");
@@ -35,3 +38,4 @@ public class CommonsIODemo1 {
 
     }
 }
+*/
