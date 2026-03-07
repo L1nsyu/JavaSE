@@ -13,7 +13,7 @@ public class ArrayListDemo2 {
         //int size()                集合的长度，也就是集合中元素的个数
 
         //1.创建一个集合
-        ArrayList<String> list = new ArrayList<String>();
+        ArrayList<String> list = new ArrayList<>();
 
         //2.添加元素
         list.add("aaa");

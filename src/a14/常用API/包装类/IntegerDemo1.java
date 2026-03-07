@@ -1,7 +1,5 @@
 package a14.常用API.包装类;
 
-import a12.面向对象进阶.接口多学三招.适配器设计模式.Inter;
-
 public class IntegerDemo1 {
     public static void main(String[] args) {
         //public Integer(int value)                 根据传递的整数创建一个Integer对象

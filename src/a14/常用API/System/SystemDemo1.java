@@ -1,7 +1,5 @@
 package a14.常用API.System;
 
-import a12.面向对象进阶.认识多态.Person;
-
 public class SystemDemo1 {
     public static void main(String[] args) {
         //public static void exit(int status)              终止当前运行的 Java 虚拟机

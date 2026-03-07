@@ -1,7 +1,5 @@
 package a16.集合进阶.泛型的通配符和综合练习.Test;
 
-import a12.面向对象进阶.继承的特点和继承体系的设计.Husky;
-
 import java.util.ArrayList;
 
 public class Test {
