@@ -9,7 +9,7 @@ public class Student implements Comparable<Student> {
         this.name = name;
     }
 
-    @Override
+
     //this: 表示当前要添加的元素
     //o: 表示已经在红黑树存在的元素
 
@@ -17,6 +17,7 @@ public class Student implements Comparable<Student> {
     //负数:表示当前要添加的元素是小的,存在左边
     //正数:表示当前要添加的元素是大的,存在右边
     //0: 表示当前要添加的元素已经存在,舍弃
+    @Override
     public int compareTo(Student o) {
         System.out.println("------------------------");
         System.out.println("this:" + this);
